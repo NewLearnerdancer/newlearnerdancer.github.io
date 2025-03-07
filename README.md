@@ -1,4 +1,4 @@
-Kali Linux
++91 73874 36861 Kali Linux
 (https://www.kali.org/)
 For those who have never used Kali Linux, it is often seen as the standard in offensive penetration
 testing. This Debian-based Linux distro contains a wealth of different security tools all preconfigured
